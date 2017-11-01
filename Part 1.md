@@ -24,10 +24,10 @@ Mead here is sweet and dingy. It tastes of greyberries and honey. Also like hay.
 The bard and her apprentices sing a clipped version of an old poem.
 
 
-    Once upon a ride in the burrow.
-    We found ten drunken dwarves.
-    Among them were two dozen draugr.
-    With not a sword between them.
+> Once upon a ride in the burrow.
+> We found ten drunken dwarves.
+> Among them were two dozen draugr.
+> With not a sword between them.
 
 _I'll never understand this country's poetry_ you think quietly to yourself.
 
