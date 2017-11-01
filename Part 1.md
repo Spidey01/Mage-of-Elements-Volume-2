@@ -50,9 +50,9 @@ Apparently this isn't going to be a fun stay. Your mind snaps to where your hors
 *You decide to ....*
 
 
-  0. Be brash.
-  1. Be patient.
-  2. Leave quietly.
+  1. Be brash.
+  2. Be patient.
+  3. Leave quietly.
 
 
 

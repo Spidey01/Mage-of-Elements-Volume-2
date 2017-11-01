@@ -22,6 +22,6 @@ Friend or foe, it is now your only chance to get out of this alive.
 *You decide to ...*
 
 
-  0. Kill them all.
-  1. Attack the hunter.
-  2. Attack the prick.
+  1. Kill them all.
+  2. Attack the hunter.
+  3. Attack the prick.

@@ -4,6 +4,6 @@
 *You decide to ...*
 
 
-  0. Run for the inn.
-  1. Run for the ally.
-  2. Improvise on the spot.
+  1. Run for the inn.
+  2. Run for the ally.
+  3. Improvise on the spot.
