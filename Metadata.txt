@@ -1,0 +1,13 @@
+---
+title:
+- type: main
+  text: Mage of Elements - Volume 2
+- type: subtitle
+  text: Princess & The Breeze
+- lang: en-US
+- date: 2017
+creator:
+- role: author
+  text: Terry M. Poulin
+rights: © 2017 Terry M. Poulin, CC BY-NC-ND 4.0 
+…

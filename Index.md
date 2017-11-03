@@ -1,6 +1,8 @@
 ## Princess & The Breeze ##
 
   - [Title Card](Title.html)
+  - [Author](AUTHOR.html)
+  - [Copying](COPYING.html)
   - [Part 1](Part 1.html)
   - Part 2:
     + [Be Brash](Part 2 - Be Brash.html)
