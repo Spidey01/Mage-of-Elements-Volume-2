@@ -15,4 +15,10 @@
     + [Attack The Prick](Part 3 - Attack The Prick.html)
     + [Common](Part 3 - Common.html)
   - Part 4:
+    + [Run For The Inn](Part 4 - Run For The Inn.html)
+    + [Run For The Alley](Part 4 - Run For The Alley.html)
+    + [Improvise On The Spot](Part 4 - Improvise On The Spot.html)
+      - [Run For The Alley](Part 4 - Run For The Alley.html)
+    + [Common](Part 4 - Common.html)
+
 
