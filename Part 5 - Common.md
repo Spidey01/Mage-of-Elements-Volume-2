@@ -1,4 +1,4 @@
-Unfortunately the house keeper didn't repair their rooftop very often and your steel plate wears you down. The roof gives way and you fall. The robbed Nerd grabs your hand and ends up laying prone: holding you by one forearm as your sword arm dangles by your side.
+Unfortunately the house keeper didn't repair their rooftop very often and your steel plate weighs you down. The roof gives way and you fall. The robbed Nerd grabs your hand and ends up laying prone: holding you by one forearm as your sword arm dangles by your side.
 
 "Hey, help me!" he shouts at the ninja.
 
@@ -10,7 +10,7 @@ Before you know it the ninja woman has your other hand and along with the nerd: 
 
 "Wait, what the heck is happening here?" you ask.
 "Yeah? Weren't you trying to kill us?" the Nerd asks with curiously stare.
-"No, I was aiming for men at the Inn." says the Ninja.
+"No, I was aiming for the men at the Inn." says the Ninja.
 "Well, I did almost shoot Mr. Mage but that was an accident."
 
 The three of you decide to introduce yourselves.
@@ -27,18 +27,18 @@ Zum Kaz, nerd extraordinare and mage speaks up first.
 
 Yukari crosses her arms and continues.
 
-"I came here on a mission seeking The Island of Divine Wind. A merchant swindled the local ruler the last time the island came overheard and contracted The Third Order to assassinate him in revenge. Asking around about the island's current wearabouts: I heard of a blonde sword maiden who also seeks the island. By the time that I reached the inn there were scarcely few women meeting any of the descriptions I was given."
+"I came here on a mission seeking The Island of Divine Wind. A merchant swindled the local ruler when last the island came overheard. He contracted The Third Order to assassinate the merchant in revenge, and my family was assigned to carry it out. Asking around about the island's current whereabouts: I heard of a blonde sword maiden who also seeks this drifting island. By the time that I reached the inn: there were scarcely few women matching any of the descriptions I had been given."
 
 Kaz rubs his head in confusion.
 
-"What a coincidence. I've been seeking this floating island as well; we call it Breeze. My order has been researching its movements for years now but I was the first to set out to actually find it. Everyone else was too afraid of the Guardians of Breeze."
+"What a coincidence. I've been seeking this floating island as well; we simply call it Breeze. My order has been researching its movements for years now but I was the first to set out to actually find it. Everyone else was too afraid of the fabled Guardians of Breeze."
 
-You look from Kaz to Yukari and smile. The party is formed and the quest lay ahead.
+You look from Kaz to Yukari and smile. The party is formed and the real quest lay ahead.
 
-"Well, in my case: I heard there would be fine treasure. Problem is I don't really know where Breeze happens to be."
+"Well, in my case: I heard there would be fine treasure. Problem is I don't really know where Breeze happens to be right this moment."
 
 
   1. Ask the Mage
   2. Ask the Ninja
-  3. Original Plan
+
 
