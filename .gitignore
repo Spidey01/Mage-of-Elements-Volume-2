@@ -1,0 +1,19 @@
+# Bytecode compiled rpy files.
+*.rpyc
+
+# Files created when running the game from the git directory.
+log.txt
+errors.txt
+traceback.txt
+styles.txt
+
+# Engine directories that belong to the Renpy launcher.
+saves
+tmp
+cache
+env
+
+
+# Editor stuff.
+*.sw?
+*~
