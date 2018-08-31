@@ -64,4 +64,3 @@ label part3_common:
         "Improvise on the spot.":
             jump part4_improvise
 
-    return
