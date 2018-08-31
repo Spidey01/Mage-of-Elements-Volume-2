@@ -53,10 +53,13 @@ label part1:
 
     show bard at right
 
-    "Turning toward the bard's performance, you lean back against the counter and enjoy the mead. One hand resting instinctively on the hilt of your sword, Demonslayer."
+    "Turning toward the bard's performance, you lean back against the counter and enjoy the mead."
+    "One hand resting instinctively on the hilt of your sword, Demonslayer."
 
-
-    "Mead here is sweet and dingy. It tastes of greyberries and honey. Also like hay. You suspect sans the honey that the mead is probably made from leavings from the barn. At least it hasn't been pissed in."
+    "Mead here is sweet and dingy."
+    "It tastes of greyberries and honey. Also like hay."
+    "You suspect sans the honey that the mead is probably made from leavings from the barn."
+    "At least it hasn't been pissed in."
 
     "The bard and her apprentices sing a clipped version of an old poem."
 
