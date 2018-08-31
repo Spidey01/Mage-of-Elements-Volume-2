@@ -12,8 +12,7 @@
 ##
 ## The _() surrounding the string marks it as eligible for translation.
 
-define config.name = _("Mage-of-Elements-Volume-2")
-
+define config.name = _("Mage of Elements: The Princess & The Breeze.")
 
 ## Determines if the title given above is shown on the main menu screen. Set
 ## this to False to hide the title.
@@ -23,13 +22,34 @@ define gui.show_name = True
 
 ## The version of the game.
 
-define config.version = "1.0"
+define config.version = "0.1"
 
 
 ## Text that is placed on the game's about screen. Place the text between the
 ## triple-quotes, and leave a blank line between paragraphs.
 
 define gui.about = _p("""
+A Choose Your Own Adventure like story.
+
+Volume 2 of Mage of Elements. This is Launa's adventure.
+
+The beginning of Volume 2 can be found on Google+ at {a=https://plus.google.com/+TerryPoulin/posts/34xiF2vtVYd}this post{/a} and version control is hosted at {a=https://github.com/Spidey01/Mage-of-Elements-Volume-2}GitHub{/a}.
+
+Volume 1 can be found at /* TODO: GitHub it! */ and beginning at {a=https://plus.google.com/+TerryPoulin/posts/cTuL9rBENhQ}this Google+ post{/a}.
+
+""")
+
+# My variable for author bit.
+define gui.author = "{a=https://github.com/Spidey01}Terry M. Poulin{/a} [{a=https://plus.google.com/+TerryPoulin}G+{/a}]"
+
+define gui.copying = _("""
+Unless otherwise specified, all rights are reserved and you may share things under the creative commons license specified below.
+
+Creative Commons NC-ND 4.0: [[{a=http://creativecommons.org/licenses/by-nc-nd/4.0/deed.en_US}Summary{/a}] [[{a=http://creativecommons.org/licenses/by-nc-nd/4.0/legalcode}Legal Code{/a}]
+
+In short: copying to share with others is okay but do not to make profit or manipulate without my permission.
+Suggestions or transmission of corrections, errata, edits, etc may be accepted but I am not obligated to do so.
+
 """)
 
 
