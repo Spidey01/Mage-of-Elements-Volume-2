@@ -5,6 +5,11 @@
 *.pyc
 *.pyo
 
+# Files renpy's build system ignores.
+*~
+*.bak
+thumbs.db
+
 # Files created when running the game from the git directory.
 log.txt
 errors.txt
