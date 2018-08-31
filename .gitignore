@@ -1,5 +1,9 @@
-# Bytecode compiled rpy files.
+# Bytecode compiled rpy files, etc.
 *.rpyc
+*.rpyb
+*.rpymc
+*.pyc
+*.pyo
 
 # Files created when running the game from the git directory.
 log.txt
