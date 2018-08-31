@@ -84,6 +84,8 @@ label part2_common:
 
     "Prick's hair stands on end and begins to smell of ozone as he turns to track the bolt."
 
+    hide cg lighting bolt with dissolve
+
     show kaz at right
 
     "The robed nerd from before stands at the inn door: book in one hand and the other raised towards your position."
@@ -98,14 +100,11 @@ label part2_common:
         "Friend or foe, it is now your only chance to get out of this alive."
 
         "Kill them all.":
-            pass
+            jump part3_kill_them_all
 
         "Attach the hunter.":
-            pass
+            jump part3_attack_the_hunter
 
         "Attach the prick.":
-            pass
+            jump part3_attack_the_prick
 
-    # This ends the game.
-    "DEBUG END"
-    return
