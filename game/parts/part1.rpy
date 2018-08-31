@@ -44,9 +44,7 @@ label part1:
 
     launa "A mead and a room for the night."
 
-    define ik = Character("Inn Keeper")
-
-    ik "Private rooms are five septims. Three for a bunk."
+    innkeeper "Private rooms are five septims. Three for a bunk."
 
     "You plunk down five more silver coins. Soon they are gone and you have your mead."
 
@@ -61,8 +59,6 @@ label part1:
     "Mead here is sweet and dingy. It tastes of greyberries and honey. Also like hay. You suspect sans the honey that the mead is probably made from leavings from the barn. At least it hasn't been pissed in."
 
     "The bard and her apprentices sing a clipped version of an old poem."
-
-    define bard = Character("Bard")
 
     # play music "Old Poem"
 

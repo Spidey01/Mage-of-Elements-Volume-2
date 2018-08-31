@@ -5,7 +5,7 @@ label part4_run_for_the_inn:
 
     launa "Is there a back exit?"
     show innkeeper surprised
-    ik "Yeah, it's in the back!"
+    innkeeper "Yeah, it's in the back!"
 
     "You leap over the bar, dragging the flabbergasted nerd in your wake."
 
